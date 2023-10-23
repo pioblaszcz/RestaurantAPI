@@ -3,7 +3,7 @@
     "RestaurantAPI": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/restaurant",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
@@ -13,7 +13,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
+      "launchUrl": "api/restaurant",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -21,7 +21,7 @@
     "WSL": {
       "commandName": "WSL2",
       "launchBrowser": true,
-      "launchUrl": "https://localhost:7144/weatherforecast",
+      "launchUrl": "https://localhost:7144/api/restaurant",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_URLS": "https://localhost:7144;http://localhost:5125"
